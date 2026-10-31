@@ -234,6 +234,7 @@ Submission- OpenJob RESTful API Versi 1/
 │   ├── validators/                   # Skema Joi per resource
 │   ├── app.js                        # Inisialisasi Express (tanpa listen)
 │   └── server.js                     # Entry point (listen HOST:PORT)
+├── OpenJob RESTful API V1 Test/      # Koleksi & environment Postman dari Dicoding
 ├── .env.example                      # Template environment (tanpa nilai rahasia)
 ├── .gitignore
 ├── .prettierrc
@@ -376,7 +377,7 @@ Server berjalan di `http://localhost:3000` (sesuai `HOST` dan `PORT`).
 ## 🧪 Pengujian dengan Postman
 
 1. Jalankan server (`npm run start:dev`).
-2. Di Postman, **Import** dua berkas Postman resmi dari Dicoding (diunduh dari halaman submission): koleksi `[271] OpenJob API Test V1` dan environment `OpenJob API`.
+2. Di Postman, **Import** dua berkas dari folder `OpenJob RESTful API V1 Test/`: koleksi `[271] OpenJob API Test V1` dan environment `OpenJob API`.
 3. Pilih environment **OpenJob API**, lalu jalankan koleksi lewat **Run collection** tanpa mengubah urutan.
 
 Hasil terakhir: **296 dari 296 test lulus** (folder Mandatory dan Opsional).
