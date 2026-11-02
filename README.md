@@ -32,7 +32,7 @@
   - [Skrip NPM](#skrip-npm)
 - [Pengujian dengan Postman](#-pengujian-dengan-postman)
 - [Dokumentasi Arsitektur](#-dokumentasi-arsitektur)
-- [Penulis](#-penulis)
+- [Developer](#-developer)
 
 ---
 
@@ -426,7 +426,7 @@ Seluruh error ditangani di `middlewares/errorHandler.js`:
 
 ---
 
-## 👤 Penulis
+## 👨‍💻 Developer
 
 - **Nama:** Alfin Himawan Santosa
 - **Program:** Asah led by Dicoding Supported by GoTo — PLK Akomodasi Klaim Universitas Negeri Yogyakarta (UNY) Studi Mandiri
